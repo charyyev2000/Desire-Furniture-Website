@@ -7,7 +7,7 @@ Includes plugins such as <b>Slick Slider</b> on <i>Main page</i> and <i>Contact 
 
 Gulpfile.js was used to write this website. Only desktop version is available at the moment. <br>
 
-https://peura-lady.github.io/Desire/app/
+https://charyyev2000.github.io/Desire-Furniture-Website/app/
 
 # Screenshots
 
